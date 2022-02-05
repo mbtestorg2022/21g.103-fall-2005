@@ -52,11 +52,48 @@ Grading and Assignments
 
 The course grade will be based on class performance, on tests, assignments (including a final presentation), with the relative weighting of each as shown below:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| There will be five tests, fairly evenly spaced through the term; though each will be focused on new material, all will be cumulative, so there will not be an additional midterm or final. | 50% |
-| Class performance will be evaluated on the basis of attendance (including promptness), preparedness, homework, and participation. | 35% |
-| A final oral presentation delivered before the class with appropriate visuals and other props on one of the subjects that you encounter in the textbook or in the readings (e.g. getting around in China, regional languages, advertising, Chinese meals). | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+There will be five tests, fairly evenly spaced through the term; though each will be focused on new material, all will be cumulative, so there will not be an additional midterm or final.
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class performance will be evaluated on the basis of attendance (including promptness), preparedness, homework, and participation.
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A final oral presentation delivered before the class with appropriate visuals and other props on one of the subjects that you encounter in the textbook or in the readings (e.g. getting around in China, regional languages, advertising, Chinese meals).
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Other factors may come in to play in assigning a final grade, eg improvement versus stagnation over the course of the semester, and progress relative to starting level. Quizzes or tests missed without written excuse cannot be made up. Attendance and promptness is assumed; more than 4 unexcused absences (a week's worth) lowers your grade one letter; persistent tardiness will also add up to absences.
 
@@ -83,15 +120,127 @@ Interested in working or teaching abroad? Check out the [MISTI program](http://m
 Calendar
 --------
 
-| DAY # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part 1**{{< /td-colspan >}} |||
-| 1-9 | Review of Units 7 and 6  {{< br >}}  {{< br >}}Begin Characters Lesson 7 | Test 1 on day #9 |
-| {{< td-colspan 3 >}}**Part 2**{{< /td-colspan >}} |||
-| 10-20 | Complete Characters Lesson 7  {{< br >}}  {{< br >}}Unit 8 up to (not including) 8.10  {{< br >}}  {{< br >}}Begin Reading _Lady in the Painting_ | Test 2 on day #20 |
-| {{< td-colspan 3 >}}**Part 3**{{< /td-colspan >}} |||
-| 21-32 | Complete Unit 8  {{< br >}}  {{< br >}}_Lady in the Painting_ (cont.)  {{< br >}}  {{< br >}}Begin Unit 9 | Test 3 on day #32 |
-| {{< td-colspan 3 >}}**Part 4**{{< /td-colspan >}} |||
-| 33-40 | Complete Unit 9  {{< br >}}  {{< br >}}_Lady in the Painting_ (cont.) | Test 4 on day #40 |
-| {{< td-colspan 3 >}}**Part 5**{{< /td-colspan >}} |||
-| 41-53 | Unit 10  {{< br >}}  {{< br >}}_Lady in the Painting_ (to the end) | Test 5 on day #49  {{< br >}}  {{< br >}}Presentations on days #51-53
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DAY #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 1**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-9
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Units 7 and 6  
+  
+Begin Characters Lesson 7
+{{< tdclose >}}
+{{< tdopen >}}
+Test 1 on day #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 2**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-20
+{{< tdclose >}}
+{{< tdopen >}}
+Complete Characters Lesson 7  
+  
+Unit 8 up to (not including) 8.10  
+  
+Begin Reading _Lady in the Painting_
+{{< tdclose >}}
+{{< tdopen >}}
+Test 2 on day #20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 3**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-32
+{{< tdclose >}}
+{{< tdopen >}}
+Complete Unit 8  
+  
+_Lady in the Painting_ (cont.)  
+  
+Begin Unit 9
+{{< tdclose >}}
+{{< tdopen >}}
+Test 3 on day #32
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 4**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33-40
+{{< tdclose >}}
+{{< tdopen >}}
+Complete Unit 9  
+  
+_Lady in the Painting_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Test 4 on day #40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part 5**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41-53
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 10  
+  
+_Lady in the Painting_ (to the end)
+{{< tdclose >}}
+{{< tdopen >}}
+Test 5 on day #49  
+  
+Presentations on days #51-53
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

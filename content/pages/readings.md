@@ -48,30 +48,189 @@ Available below are the units covered in Chinese III, divided thematically into 
 
 ### Unit 8
 
-| Pages | Sections |
-| --- | --- |
-| 1-12 | Beginning to 8.3 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_1)) |
-| 13-25 | 8.4 to 8.5 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_2)) |
-| 25-34 | 8.6 to 8.8 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_3)) |
-| 34-40 | 8.9 to 8.10 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_4)) |
-| 41-55 | 8.11 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_5)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Pages
+{{< thclose >}}
+{{< thopen >}}
+Sections
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-12
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning to 8.3 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-25
+{{< tdclose >}}
+{{< tdopen >}}
+8.4 to 8.5 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25-34
+{{< tdclose >}}
+{{< tdopen >}}
+8.6 to 8.8 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34-40
+{{< tdclose >}}
+{{< tdopen >}}
+8.9 to 8.10 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41-55
+{{< tdclose >}}
+{{< tdopen >}}
+8.11 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_8_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Unit 9
 
-| Pages | Sections |
-| --- | --- |
-| 1-9 | Beginning to 9.3 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_1)) |
-| 9-19 | 9.4 to 9.5 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_2)) |
-| 19-29 | 9.6 to 9.9 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_3)) |
-| 29-38 | 9.10 to 9.11 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_4)) |
-| 38-47 | 9.12 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_5)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Pages
+{{< thclose >}}
+{{< thopen >}}
+Sections
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-9
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning to 9.3 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-19
+{{< tdclose >}}
+{{< tdopen >}}
+9.4 to 9.5 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-29
+{{< tdclose >}}
+{{< tdopen >}}
+9.6 to 9.9 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29-38
+{{< tdclose >}}
+{{< tdopen >}}
+9.10 to 9.11 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38-47
+{{< tdclose >}}
+{{< tdopen >}}
+9.12 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_9_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Unit 10
 
-| Pages | Sections |
-| --- | --- |
-| 1-11 | Beginning to 10.4 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_1)) |
-| 12-19 | 10.5 to 10.8 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_2)) |
-| 19-26 | 10.9 to 10.11 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_3)) |
-| 26-35 | 10.12 to 10.14 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_4)) |
-| 35-47 | 10.15 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_5))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Pages
+{{< thclose >}}
+{{< thopen >}}
+Sections
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-11
+{{< tdclose >}}
+{{< tdopen >}}
+Beginning to 10.4 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-19
+{{< tdclose >}}
+{{< tdopen >}}
+10.5 to 10.8 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-26
+{{< tdclose >}}
+{{< tdopen >}}
+10.9 to 10.11 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26-35
+{{< tdclose >}}
+{{< tdopen >}}
+10.12 to 10.14 ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35-47
+{{< tdclose >}}
+{{< tdopen >}}
+10.15 to end ([PDF]({{< baseurl >}}/resources/mit21g_103f05_10_5))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
