@@ -12,7 +12,7 @@ Lectures: 4 sessions / week, 1 hour / session
 Course Description
 ------------------
 
-This subject follows [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015/) (Chinese II) in MIT's curriculum in modern standard Chinese (Mandarin). Together with 21G.104, taught in the Spring, Chinese III forms the intermediate level of what constitutes a four-term foundation in Mandarin. The foundation (Chinese I through IV) covers the core grammar of the language; it develops a sensitivity to linguistically appropriate behavior; it introduces extensive vocabulary and usage as a basis for conversational development; and it provides a step-by-step guide to the principles and practice of reading and writing Chinese characters.
+This subject follows [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015) (Chinese II) in MIT's curriculum in modern standard Chinese (Mandarin). Together with 21G.104, taught in the Spring, Chinese III forms the intermediate level of what constitutes a four-term foundation in Mandarin. The foundation (Chinese I through IV) covers the core grammar of the language; it develops a sensitivity to linguistically appropriate behavior; it introduces extensive vocabulary and usage as a basis for conversational development; and it provides a step-by-step guide to the principles and practice of reading and writing Chinese characters.
 
 In Chinese III, students will complete the basic grammatical survey of the language begun in the first year courses and consolidate and improve conversational skills; in reading, there will be a transition from the short texts of the sort encountered in Chinese I and II to stories adapted from traditional Chinese tales.
 
@@ -25,7 +25,7 @@ Textbooks Required from the Start of the Course
 -----------------------------------------------
 
 Wheatley, Julian K. _Learning Chinese:_ _A Foundation Course in Mandarin (Part 3).  
-_Parts 1 and 2 form the basis of [21G.101/21G.151](/courses/21g-101-chinese-i-regular-fall-2014/) and [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015/), respectively, which are also published on OpenCourseWare.
+_Parts 1 and 2 form the basis of [21G.101/21G.151](/courses/21g-101-chinese-i-regular-fall-2014) and [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015), respectively, which are also published on OpenCourseWare.
 
 Textbooks Required Later in the Course
 --------------------------------------

@@ -4,7 +4,7 @@ title: Assignments
 uid: 7af31cc8-a2fd-f1e1-557f-56b6c1b0c6c5
 ---
 
-This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in the [readings]({{< baseurl >}}/pages/readings) section as well as audio files available in the [study materials]({{< baseurl >}}/pages/study-materials) section. For Part 1, all review materials from Chinese II can be found either in the readings section or in [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015/).
+This section features the [daily assignments](#Daily_Assignments) for the course. All the assignments rely heavily on texts available in the [readings]({{< baseurl >}}/pages/readings) section as well as audio files available in the [study materials]({{< baseurl >}}/pages/study-materials) section. For Part 1, all review materials from Chinese II can be found either in the readings section or in [21G.102/21G.152](/courses/21g-102-chinese-ii-regular-spring-2015).
 
 Overview
 --------
